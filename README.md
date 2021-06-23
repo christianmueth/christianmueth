@@ -1,5 +1,5 @@
 - Hi, I’m @christianmueth!
-- This is a page for my 3D printing hobby projects
+- This is a page for my 3D printing hobby projects. I keep them in the repositories section
 - Most of the projects here have something to do with robotics, magnetism, lasers, or high-voltage electricity
 - I aspire to one day be a successful inventor
 - I’m currently learning how to code self-learning systems, in python...
