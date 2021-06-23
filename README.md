@@ -1,5 +1,6 @@
 - Hi, I’m @christianmueth!
 - This is a page for my 3D printing hobby projects
+- Most of the projects here have something to do with robotics, magnetism, lasers, or high-voltage electricity
 - I aspire to one day be a successful inventor
 - I’m currently learning how to code self-learning systems, in python...
 - This summer, I aim to successfully complete a bipedal remote-control robot, a 3D-printed drone, and an electromagnet capable of 50lb of lifting force. These are works in progress
